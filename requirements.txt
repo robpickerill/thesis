@@ -8,5 +8,6 @@ keras
 tensorflow
 torch
 torchvision
+pillow
 scikit-image
 ipywidgets
