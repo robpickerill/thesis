@@ -12,3 +12,5 @@ torchvision
 pillow
 scikit-image
 ipywidgets
+cv2
+tf-explain
