@@ -14,3 +14,4 @@ scikit-image
 ipywidgets
 cv2
 tf-explain
+black[jupyter]
