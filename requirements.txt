@@ -12,6 +12,9 @@ torchvision
 pillow
 scikit-image
 ipywidgets
-cv2
+opencv-python
 tf-explain
 black[jupyter]
+tensorflow-macos
+tensorflow-metal
+h5py
